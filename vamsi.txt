@@ -6,4 +6,6 @@ void talk(){
   
   System.out.println("helloo...vamsi");
 }
+void reply(){
+System.out.println("welcome to my txt vidyasagar");
 }
