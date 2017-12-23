@@ -7,4 +7,9 @@ public class CustomerService{
 	public void deleteCustomer(Integer customerId){
 	
 	}
+	
+	public void updateCustomer(Customer customer){
+		
+	}
 }
+
