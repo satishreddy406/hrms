@@ -1,5 +1,6 @@
 name =vamsi krishna bolagani
 krivis technology
+<<<<<<< HEAD
 
 public class Person{
 	
@@ -7,4 +8,15 @@ public class Person{
 
 
 }
+=======
+public class Person{
+
+void talk(){
+  
+  System.out.println("helloo...vamsi");
+System.out.println("git working fine");
+}
+void reply(){
+System.out.println("welcome to my txt vidyasagar");
+>>>>>>> 733975c2ab14e3153ec9f50332c0077176be04ec
 }
