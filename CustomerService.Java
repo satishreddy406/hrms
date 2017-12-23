@@ -15,5 +15,9 @@ public class CustomerService{
 	public void getCustomerById(Integer customerId){
 		System.out.println(cusomterId)
 	}
+	
+	public void getAllCustomers(){
+		
+	}
 }
 
