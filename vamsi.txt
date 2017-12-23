@@ -1,2 +1,9 @@
 name =vamsi krishna bolagani
 krivis technology
+public class Person{
+
+void talk(){
+  
+  System.out.println("helloo...vamsi");
+}
+}
