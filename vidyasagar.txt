@@ -3,4 +3,7 @@ public class CustomerService{
 public void createCustomer(){
 	System.out.println("customer created");
 }
+public void updateCustomer(){
+	System.out.println("customer updated")
+}
 }
