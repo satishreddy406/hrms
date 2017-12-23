@@ -1,2 +1,10 @@
 name =vamsi krishna bolagani
 krivis technology
+
+public class Person{
+	
+	void talk(){
+
+
+}
+}
