@@ -1,4 +1,5 @@
 public class CustomerDao{
 createCustomerDao(){
+System.out.println("customer created");
 }
 }
