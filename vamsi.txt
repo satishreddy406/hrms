@@ -18,7 +18,7 @@ System.out.println("git working fine");
 }
 void reply(){
 System.out.println("welcome to my txt vidyasagar");
->>>>>>> 733975c2ab14e3153ec9f50332c0077176be04ec
+
 }
 
 
