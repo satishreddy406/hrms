@@ -1,6 +1,6 @@
 name =vamsi krishna bolagani
 krivis technology
-<<<<<<< HEAD
+
 
 public class Person{
 	
