@@ -14,7 +14,7 @@ public class Person{
 void talk(){
   
   System.out.println("helloo...vamsi");
-System.out.println("git working fine");
+System.out.println("git working fine ok");
 }
 void reply(){
 System.out.println("welcome to my txt vidyasagar");
