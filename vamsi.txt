@@ -6,7 +6,8 @@ public class Person{
 	
 	void talk(){
 
-
+public void talk{
+system.out.println("im talking");
 }
 =======
 public class Person{
