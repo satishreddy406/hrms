@@ -4,3 +4,5 @@ System.out.println("plan 2 days holidays for new year");
 System.out.println("plan one week holidays for pongal.....plz sir");
 }
 }
+
+Output : 13,14,15,16 are granted holidays from Sir
