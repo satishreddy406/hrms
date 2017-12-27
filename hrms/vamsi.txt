@@ -6,8 +6,7 @@ public class Person{
 	
 	void talk(){
 
-public void talk{
-system.out.println("im talking");
+
 }
 =======
 public class Person{
@@ -15,11 +14,11 @@ public class Person{
 void talk(){
   
   System.out.println("helloo...vamsi");
-System.out.println("git working fine ok");
+System.out.println("git working fine");
 }
 void reply(){
 System.out.println("welcome to my txt vidyasagar");
-System.out.println("editing finished");
+
 }
 
 
