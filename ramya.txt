@@ -1,5 +1,10 @@
 public class Country{
 	public Country createCounrty{
+<<<<<<< HEAD
+System.out.println("hellow all.................");
 
+=======
+System.out.println("vaishali editing ramya file");
+>>>>>>> 10bf2cb79e8de61d40d574d1ddcef18eaa28b55f
 	}
 }

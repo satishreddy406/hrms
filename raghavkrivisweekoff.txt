@@ -1,0 +1,5 @@
+public class KrivisWeekoff{
+public static void main(String{} args){
+System.out.println("31-Dec-2017 and 01-Jan-2018 both are weekoff's for Krivis Technology");
+}
+}
