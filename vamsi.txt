@@ -1,5 +1,5 @@
 name =vamsi krishna bolagani
-krivis technology
+krivis
 
 
 public class Person{
