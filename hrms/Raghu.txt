@@ -1,7 +1,0 @@
-public class Christmas{
-public static void main(String[] args){
-System.out.println("Merry Christmas 2017");
-}
-}
-
-Superb
